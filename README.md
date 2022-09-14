@@ -1,26 +1,26 @@
-Curso de diseño para Developers 
+# Curso de diseño para Developers 
 
 ## Proceso creativo para diseño 
 
-![imagen](https://user-images.githubusercontent.com/83564327/190044758-fec25828-39a9-4394-8b47-733dc6ea887c.png)
+                      ![imagen](https://user-images.githubusercontent.com/83564327/190044758-fec25828-39a9-4394-8b47-733dc6ea887c.png)
 
-### La preparación 
+### 1- La preparación 
   
-  Investigamos y recopilamos toda la información relativa aun problema.
+Investigamos y recopilamos toda la información relativa aun problema.
   
-### Incubación 
+### 2- Incubación 
 
 Experimentar, buscar distinatas soluciones 
 
-### iluminación 
+### 3- Iluminación 
 
 Donde se ocurren la ideas, donde se permite idear soluciones 
 
-### Evaluación 
+### 4- Evaluación 
 
 Donde evaluamos si la soliuciones son practica o vialbles 
 
-### Implentación 
+### 5- Implentación 
 
 Donde se construye la idea, y se pone en marcha 
 
