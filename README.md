@@ -2,7 +2,7 @@
 
 ## Proceso creativo para diseño 
 
-                      ![imagen](https://user-images.githubusercontent.com/83564327/190044758-fec25828-39a9-4394-8b47-733dc6ea887c.png)
+  ![imagen](https://user-images.githubusercontent.com/83564327/190044758-fec25828-39a9-4394-8b47-733dc6ea887c.png)
 
 ### 1- La preparación 
   
