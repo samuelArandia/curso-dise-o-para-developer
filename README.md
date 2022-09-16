@@ -149,3 +149,10 @@ El rol del diseñador UI está enfocado en los aspectos gráficos y visuales de 
 
 ![imagen](https://user-images.githubusercontent.com/83564327/190639352-7d5e5920-096a-4dab-818e-e76d57436713.png)
 
+## Moodboard y linea gráfica
+
+-Moodboard: Es un documento o un tablero en que empezamos a recopilar referencias visuales, de estilos, colores, y todo lo que necesitmos para crea una linea gráfica.
+
+Link de referencias: 
+## (https://dribbble.com/)
+## (https://www.behance.net/search)
