@@ -178,13 +178,29 @@ Otros tips para seleccionar los colores:
 
 ## Paleta de colores 
 
-Para construir una paleta de color, tenemos que tener claro que tipo de colores existen:
-• Colores primarios: Amarillo, azul y rojo.
-• Colores secundarios: Son los que resultan de la combinación de los colores primarios.
-• Colores terciarios: Son los colores intermedios que hay entre un color primario y un color secundario.
-Tipos de paletas:
-• Combinación monocromática: Diferentes tonos de un mismo color. (diferente opacidad).
-• Combinación análoga: Resulta de combinar un color primario con uno secundario y uno terciario que estén seguidos en el circulo cromático.
-• Combinación complementaria: Consiste en combinar un color primario con un color secundario que no estén seguidos en el circulo cromático. Estos colores estan opuestos en el circulo.
-• Combinación triádica: Se trata de combinar tres colores que estén en el circulo cromático de forma que forman un triángulo dentro del circulo.
-• Combinación tétrada: Combinamos 4 colores elegidos al formar un rectángulo dentro del circulo cromático. Se eligen dos primarios y dos secundarios.
+Para poder construir una paleta de color debemos de tener claro los tipos de colores que existen
+1. Colores primarios
+	- Amarillo
+	- Azul
+	- Rojo
+2. Colores secundarios
+	- Son los que resultan de la combinación de los primarios
+	- Amarillo + Azul = Verde
+	- Verde + Rojo = Morado
+	- Rojo + Amarillo = Naranja
+3. Colores terciarios
+	- Son los que se encuentran en el circulo cromatico entre un color primario y un secundario
+	- Son la transición entre amarillo a verde
+	- Verde a azul
+	- Son los colores intermedios que resultan de la combinación de un color primario y un secundario
+
+## Diferentes tipos de paletas
+- Combinación monocromática (Un color + diferente opacidad)
+- Combinación análoga (Consiste en combinar un color primario, uno secundario y uno terciario que estén seguidos en nuestro circulo cromático)
+- Combinación complementaria (Consiste en combinar un color primario más un secundario)
+	Estos colores están opuestos el uno al otro en un circulo cromático y se pueden encontrar en cualquier gráfica del circulo cromático
+- Combinación triádica (Consiste en crear un triángulo en la mitad del circulo cromático y a medida que se va girando el triángulo se visualiza como cada una de las puntas del triángulo apunta a un color)
+- Combinación tétrada (Consiste en crear 4 colores, 2 primarios y dos secundarios. Se crea un rectángulo en medio del circulo cromático y se va girando)
+
+Herramientas útiles para crear paletas de color
+- [Adobe color](https://color.adobe.com/es/explore)
