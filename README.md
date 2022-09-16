@@ -267,3 +267,7 @@ Creamos después una clase Grid para configurar cada uno de los elementos conten
 Finalmente le añadimos un display grid, que nos permite que toda esta configuración surta efecto. Y definimos un grip-column-gap para la distancia entre columnas y un grid-template-column que nos permite tener esta estructura.
 
 Para definir el tamaño de un componente, se pone grid-column: 1/5, donde uno es la columna donde empieza, y 5 es la columna donde termina.
+
+## SISTEMAS DE COMPONENTES UI
+
+Una de las metodologías que podemos usar es separar la funcionalidad por componentes.Un sistema de componentes es un conjunto de componentes que vamos a usar par crear nuestra aplicación. Esos componentes funcionan como una librería. Puedes usar cualquier tecnología que prefieras. Lo importante es encapsular las funcionalidades en componentes. Cada componente tendrá su propio css y funcionalidad dentro de su propia función. Así podremos importar esas características a cualquier pantalla de nuestra aplicación, reutilizando el código y haciendo más eficiente nuestra aplicación. En la clase de Wireframe creamos unos bocetos de unos componentes, que luego dividimos en unidades de funcionalidad. La idea es crear a partir del wireframe todos los componentes y funcionalidades, y después le añadimos la capa visual.
