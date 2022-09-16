@@ -1,4 +1,4 @@
-# Curso de diseño para Developers 
+# Curso de diseño para Developers (https://github.com/mssroboto/diseno-para-programadores)
 
 ## Proceso creativo para diseño 
 
@@ -88,4 +88,64 @@ Agregar etiquetas y textos descriptivos a campos de formularios, videos e imáge
 
 Evitar animaciones que bloqueen contenido ⇒ Esto provoca que aquellos que no tengan acceso a un mouse no obtengan la misma cantidad de información que uno que si lo tiene.
 
+## Brief y requerimientos tecnicos (https://github.com/mssroboto/diseno-para-programadores/blob/master/1-brief/Brief..pdf)
+
+### Brief: Es la hoja de ruta de nuestra página a diseñar. 
+
+![imagen](https://user-images.githubusercontent.com/83564327/190635132-602bbaf0-4ee8-4ab2-a945-393700f0dc3b.png) ![imagen](https://user-images.githubusercontent.com/83564327/190635187-85bce206-d3ad-4d8a-9731-ee4eab10347d.png)
+
+
+## Diseño UX 
+
+El término UX viene de User Experience, o Experiencia del Usuario. Básicamente es cómo una persona se siente mientras usa cualquier producto o servicio digital que tu empresa ofrece. UX tiene que ver también con la sensación de esta persona después de usar tu producto.
+
+![imagen](https://user-images.githubusercontent.com/83564327/190636606-3ae2d5b1-cecf-40d1-b19c-0cccc76c84c3.png)
+
+
+Investigacion ⇒ Recopilar informacion para conocer que ocupan los usuarios principalmente. Es bueno apoyarse de aplicaciones ya existentes para crear un buen diseño UX
+
+Analisis ⇒ Una vez recopilada la informacion se analiza y se obtienen los puntos importantes que debemos tener en cuenta al momento de crear el diseño
+
+Diseño ⇒ Se crean prototipos o sketches para visualizar el resultado
+
+Pruebas de usuario ⇒ Por lo general se llevan a cabo en los sketches para poder realizar ajustes antes de llevar el diseño a codigo
+
+## Diagrama de flujo 
+
+Primer paso de nuestro diseño UX son los diagramas de flujo.
+Pasamos los elementos de nuestro BRIEF a elementos tangibles.
+El primer diagrama se llama SITEMAP Y es un mapa completo de nuestro sitio. Aquí definimos cuales son las secciones principales, las secciones secundarias y las paginas externas a nuestro sitio.
+El siguiente es el USER FLOW. Estos nos permiten hacer un diagrama de todos los pasos que hace un usuario para completar una tarea. Con este flujo podemos saber cuántas pantallas o componentes tenemos para realizar una acción de usuario.
+No hay un número definido de pantallas o componentes que vamos a diseñar para un trabajo en particular.
+
+![imagen](https://user-images.githubusercontent.com/83564327/190637087-1267335c-a737-4f25-9ea5-f8c111384953.png)
+
+Ejemplo de diagrama de flujo basico(Site Map)
+
+![imagen](https://user-images.githubusercontent.com/83564327/190637226-990cbc05-d928-47bc-838b-a58181bb13cf.png)
+
+Ejemplo de un diagrama de flujo avanzado, más detallado(User FLow): Es un diagrama general de los pasos que tiene que hacer un usuario (desde que llega a la pagina) para hacer una tarea.
+
+![imagen](https://user-images.githubusercontent.com/83564327/190637417-e8c56d47-ec13-4491-b13c-6a90f559c360.png)
+
+## WireFrames y componestes 
+
+Wireframes: Son los planos de la aplicación, se recomiendo comenzar hacer los borradores a mano, ejemplo: 
+
+![imagen](https://user-images.githubusercontent.com/83564327/190638210-b10ea9e8-2feb-4ea5-a85d-1a4706f4657d.png)
+
+Componetes: las diferentes funcionalidades y/o secciones que se encuentran en nuestro prodcuto. 
+
+-Importante negociar con el cliente y equipo de desarrollo
+![imagen](https://user-images.githubusercontent.com/83564327/190638700-7591d674-d549-4f6e-a271-cb1b3fb74070.png)
+
+## Diseño UI 
+
+Cuando hablamos de diseño UI (user interface design), nos referimos al diseño de la interfaz de usuario y, por lo tanto, a la experiencia estética que resulta de ella.
+
+¿En qué consiste el trabajo del diseñador UI?
+
+El rol del diseñador UI está enfocado en los aspectos gráficos y visuales de la interfaz. Por lo tanto, los elementos perceptibles por el usuario. Por ejemplo, el color y tamaño de un botón para que sea visible, que llame la atención y que den ganas de clicar en él; o la tipografía de los textos que se muestran en pantalla.
+
+![imagen](https://user-images.githubusercontent.com/83564327/190639352-7d5e5920-096a-4dab-818e-e76d57436713.png)
 
