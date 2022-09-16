@@ -221,3 +221,12 @@ Las fuentes tienen personalidad.
 • Serif: tradicional, sofisticada, confiable, práctica, formal… Se puede combinar con Sans Serif, scripts, display… y se suele usar en logos, textos de párrafos, títulos, impresos.
 • Sans Serif: Moderna, limpia, humanista, geométrica, universal. Se combina con serif, script y slab serif. Sus usos son: logos, textos de párrafos, títulos y textos pequeños.
 • Script o fuente cursiva: Elegante, clásica, formal, sofisticada y estilizada. Combina con serif y sans serif. Se usa en logos, títulos e invitaciones. También textos cortos que queramos destacar.
+
+## Tipo de fuentes 
+
+![imagen](https://user-images.githubusercontent.com/83564327/190827486-7bbcb9b7-0732-4de8-86b3-be15c8989625.png)
+
+![imagen](https://user-images.githubusercontent.com/83564327/190827499-69163ee7-9112-40b0-a2e0-3ad76a93d7f6.png)
+
+![imagen](https://user-images.githubusercontent.com/83564327/190827514-bc473695-e724-40e6-b48c-a49615f88e91.png)
+
