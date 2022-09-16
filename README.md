@@ -245,9 +245,13 @@ Mixin es una clase que tiene dentro del pre-procesador, que te ayuda a manejar m
 Tenemos que configurar nuestros BreakPoints (Tipos de pantalla).
 
 • $xs: 360px. Para móviles pequeños.
+
 • $s: 440px. Para móviles con la pantalla más grande.
+
 • $m: 768px. Para tablets.
+
 • $l: 1280px. Para Ordenadores pantalla normal.
+
 • $xl: 1440px. Monitores de alta calidad.
 
 Podemos usar un Mixin para manejar los distintos breakpoints más fácilmente.
@@ -255,6 +259,7 @@ Podemos usar un Mixin para manejar los distintos breakpoints más fácilmente.
 Después vamos a configurar nuestras variables dependiendo de los breakpoints.
 
 –columns. Es el número de columnas que vamos a poner.
+
 –column-gap es el espacio entre las columnas.
 
 Creamos después una clase Grid para configurar cada uno de los elementos contenedores donde vamos a incluir nuestros componentes.
