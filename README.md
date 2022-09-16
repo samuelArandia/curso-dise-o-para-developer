@@ -165,8 +165,13 @@ Link de referencias:
 
 La idea es que uses la teoría del color para elegir los colores de tu aplicación según el problema que resuelve.
 Otros tips para seleccionar los colores:
+
 • Utiliza color RGB y hexadecimales.
+
 • Crea un código de color consistente. Que todos los componentes de la misma categoría tengan el mismo color.
+
 • Menos es más. No satures de colores el sitio.
+
 • Asegura que el color elegido es accesible.
+
 • Define una paleta de color. Esto es un grupo de colores que vamos a usar en toda nuestra aplicación.
