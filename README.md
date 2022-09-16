@@ -154,5 +154,19 @@ El rol del diseñador UI está enfocado en los aspectos gráficos y visuales de 
 -Moodboard: Es un documento o un tablero en que empezamos a recopilar referencias visuales, de estilos, colores, y todo lo que necesitmos para crea una linea gráfica.
 
 Link de referencias: 
-## (https://dribbble.com/)
-## (https://www.behance.net/search)
+### (https://dribbble.com/)
+### (https://www.behance.net/search)
+
+## Teoria del color 
+
+-. Psicología del color. Es un área de estudio que investiga la forma en la que el cerebro percibe los colores y los asocia a conceptos y sentimientos.
+
+![imagen](https://user-images.githubusercontent.com/83564327/190640894-5002ea92-d06c-48f0-ab66-597db68a804d.png)
+
+La idea es que uses la teoría del color para elegir los colores de tu aplicación según el problema que resuelve.
+Otros tips para seleccionar los colores:
+• Utiliza color RGB y hexadecimales.
+• Crea un código de color consistente. Que todos los componentes de la misma categoría tengan el mismo color.
+• Menos es más. No satures de colores el sitio.
+• Asegura que el color elegido es accesible.
+• Define una paleta de color. Esto es un grupo de colores que vamos a usar en toda nuestra aplicación.
