@@ -271,3 +271,13 @@ Para definir el tamaño de un componente, se pone grid-column: 1/5, donde uno es
 ## SISTEMAS DE COMPONENTES UI
 
 Una de las metodologías que podemos usar es separar la funcionalidad por componentes.Un sistema de componentes es un conjunto de componentes que vamos a usar par crear nuestra aplicación. Esos componentes funcionan como una librería. Puedes usar cualquier tecnología que prefieras. Lo importante es encapsular las funcionalidades en componentes. Cada componente tendrá su propio css y funcionalidad dentro de su propia función. Así podremos importar esas características a cualquier pantalla de nuestra aplicación, reutilizando el código y haciendo más eficiente nuestra aplicación. En la clase de Wireframe creamos unos bocetos de unos componentes, que luego dividimos en unidades de funcionalidad. La idea es crear a partir del wireframe todos los componentes y funcionalidades, y después le añadimos la capa visual.
+
+## THEMES Y CUSTOMIZACIONES
+
+Otra herramienta que podemos hacer uso en nuestra aplicación son los themes. 
+
+¿Qué es un themes?
+
+ 	Es una capa de color y estilos que se añade por encima de nuestra aplicación y nos permite tener distintas variaciones sin hacer cambios drásticos en nuestro código. En otras palabras, theme es un archivo donde tenemos configurado la presentación visual de toda la aplicación. Teniendo dos o más theme podremos tener dos o más presentaciones visuales.
+	
+Para hacer los themes fácilmente podemos hacerlo por medio de variables de css o variables de Sass. Las variables de Sass son más sencillas. Para tener varios themes, se crean un archivo de css por cada theme, pudiéndose intercambiar una por otra desde una archivo donde se configuran todos los archivos importados, sin tener que cambiar toda la programación de la aplicación. Simplemente con cambiar el nombre de un archivo por otro se realiza el cambio de theme.
