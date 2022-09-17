@@ -281,3 +281,44 @@ Otra herramienta que podemos hacer uso en nuestra aplicación son los themes.
 Es una capa de color y estilos que se añade por encima de nuestra aplicación y nos permite tener distintas variaciones sin hacer cambios drásticos en nuestro código. En otras palabras, theme es un archivo donde tenemos configurado la presentación visual de toda la aplicación. Teniendo dos o más theme podremos tener dos o más presentaciones visuales.
 	
 Para hacer los themes fácilmente podemos hacerlo por medio de variables de css o variables de Sass. Las variables de Sass son más sencillas. Para tener varios themes, se crean un archivo de css por cada theme, pudiéndose intercambiar una por otra desde una archivo donde se configuran todos los archivos importados, sin tener que cambiar toda la programación de la aplicación. Simplemente con cambiar el nombre de un archivo por otro se realiza el cambio de theme.
+
+## Imágenes para la web 
+
+JPG: Indicado para fotografias o imagenes con degradados
+
+PNG: Indicado para imágenes decorativas y fotografias pero donde se necesite un fondo trnasparante por se mas pesado que jpg 
+
+SVG: indicado para iconos y animaciones de baja complejida, Es vectorial y permite editar sus propiedades con css 
+
+Gif: no es recomendable utilizar. 
+
+Que imágenes elegir? 
+
+-Elige imágenes que aporten al contenido 
+-Utiliza imágenes en que tu publico objetivo se vea reflejado 
+-Elige imágenes consistentes con tu paleta de colores 
+-Cuidado con la licencia 
+
+### Redimiento y accesibilidad 
+
+- Evita exporta imásgenes con texto incrustado 
+-Exporta las imágenes al tamaño del contenedor final 
+-Considera el uso de estrategias como lazy loading 
+-Asegurate de añadir ´alt Text´ 
+
+## Graficos en movimiento para web 
+
+-CSS animado: Indicado para animaciones sencillas y transiciones 
+-SVG animado: Indiciado para animaciones de elementos vectoriales 
+-JS(CANVAS, WebGl): Indicado para animaciones complejas como animaciones datos o 3D 
+- Videos: Indicado para filmaciones y animaciones de alta complejida y corta duración 
+
+### Eligir graficos en movimientos 
+
+- Elige animaciones que aoprte al contenido
+- Procura que no se reproduzcan automaticamento y si lo hacen, que no tenga sonido. 
+- Evita que tu animaciones tengas flash 
+- Si tu animaciones aportan al contenido añade subtitulos o transcripciones.
+-Evita que las animaciones bloqueen la lectura básica del contenido 
+-Recuerda que las animaciones y videos afectan al rendimineto de tu página 
+
